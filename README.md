@@ -1,0 +1,2 @@
+# POKEMON-MDB-CUP
+server
