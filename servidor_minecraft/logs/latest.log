@@ -178,3 +178,18 @@
 [05:02:27] [Server thread/INFO]: zetreaa lost connection: Disconnected
 [05:02:27] [Server thread/INFO]: zetreaa left the game
 [05:02:27] [Server thread/INFO]: [voicechat] Disconnecting client zetreaa
+[05:05:27] [User Authenticator #2/INFO]: UUID of player eslikk is 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:05:29] [Server thread/INFO]: eslikk[/127.114.72.135:42517] logged in with entity id 1215 at (106.5, 67.0, -179.5)
+[05:05:29] [Server thread/INFO]: eslikk joined the game
+[05:05:29] [Server thread/INFO]: Sending item configs to client
+[05:05:29] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/1390, l='ServerLevel[world]', x=105.50, y=70.00, z=-274.50]'
+[05:05:29] [Server thread/INFO]: eslikk lost connection: Disconnected
+[05:05:29] [Server thread/INFO]: eslikk left the game
+[05:05:29] [Server thread/INFO]: [voicechat] Disconnecting client eslikk
+[05:05:51] [User Authenticator #3/INFO]: UUID of player eslikk is 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:05:53] [Server thread/INFO]: eslikk[/127.114.72.135:51139] logged in with entity id 1429 at (106.5, 67.0, -179.5)
+[05:05:53] [Server thread/INFO]: eslikk joined the game
+[05:05:53] [Server thread/INFO]: Sending item configs to client
+[05:05:53] [Server thread/INFO]: eslikk lost connection: Disconnected
+[05:05:53] [Server thread/INFO]: eslikk left the game
+[05:05:53] [Server thread/INFO]: [voicechat] Disconnecting client eslikk
