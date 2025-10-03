@@ -193,3 +193,37 @@
 [05:05:53] [Server thread/INFO]: eslikk lost connection: Disconnected
 [05:05:53] [Server thread/INFO]: eslikk left the game
 [05:05:53] [Server thread/INFO]: [voicechat] Disconnecting client eslikk
+[05:21:46] [User Authenticator #4/INFO]: UUID of player eslikk is 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:21:49] [Server thread/INFO]: eslikk[/127.114.72.135:48761] logged in with entity id 1614 at (106.5, 67.0, -179.5)
+[05:21:49] [Server thread/INFO]: eslikk joined the game
+[05:21:49] [Server thread/INFO]: Sending item configs to client
+[05:21:50] [Server thread/INFO]: [voicechat] Received secret request of eslikk (18)
+[05:21:50] [Server thread/INFO]: [voicechat] Sent secret to eslikk
+[05:21:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:21:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:21:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player eslikk (3597107a-ecea-4682-9108-13dbbb9015e9) successfully connected to voice chat
+[05:23:06] [User Authenticator #5/INFO]: UUID of player zetreaa is 811bc03d-0045-4319-9d80-c5aa17d161ba
+[05:23:09] [Server thread/INFO]: zetreaa[/127.218.34.45:59693] logged in with entity id 1963 at (156.68273426234796, 69.0, -176.70168776390977)
+[05:23:09] [Server thread/INFO]: zetreaa joined the game
+[05:23:09] [Server thread/INFO]: Sending item configs to client
+[05:23:09] [Server thread/INFO]: [voicechat] Received secret request of zetreaa (18)
+[05:23:09] [Server thread/INFO]: [voicechat] Sent secret to zetreaa
+[05:23:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 811bc03d-0045-4319-9d80-c5aa17d161ba
+[05:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 811bc03d-0045-4319-9d80-c5aa17d161ba
+[05:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player zetreaa (811bc03d-0045-4319-9d80-c5aa17d161ba) successfully connected to voice chat
+[05:23:19] [Server thread/INFO]: [zetreaa: Set the time to 1000]
+[05:23:26] [Server thread/INFO]: zetreaa was slain by Zombie
+[05:23:50] [Server thread/INFO]: eslikk lost connection: Timed out
+[05:23:50] [Server thread/INFO]: eslikk left the game
+[05:23:50] [Server thread/INFO]: [voicechat] Disconnecting client eslikk
+[05:23:50] [Server thread/WARN]: handleDisconnection() called twice
+[05:23:57] [User Authenticator #6/INFO]: UUID of player eslikk is 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:23:59] [Server thread/INFO]: eslikk[/127.114.72.135:42607] logged in with entity id 2272 at (111.75932373303284, 63.53584062504456, -143.33051156832846)
+[05:23:59] [Server thread/INFO]: eslikk joined the game
+[05:23:59] [Server thread/INFO]: Sending item configs to client
+[05:24:00] [Server thread/INFO]: zetreaa has made the advancement [Monster Hunter]
+[05:24:00] [Server thread/INFO]: [voicechat] Received secret request of eslikk (18)
+[05:24:00] [Server thread/INFO]: [voicechat] Sent secret to eslikk
+[05:24:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:24:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3597107a-ecea-4682-9108-13dbbb9015e9
+[05:24:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player eslikk (3597107a-ecea-4682-9108-13dbbb9015e9) successfully connected to voice chat
