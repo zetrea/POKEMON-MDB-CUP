@@ -227,3 +227,20 @@
 [05:24:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3597107a-ecea-4682-9108-13dbbb9015e9
 [05:24:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3597107a-ecea-4682-9108-13dbbb9015e9
 [05:24:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player eslikk (3597107a-ecea-4682-9108-13dbbb9015e9) successfully connected to voice chat
+[05:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=107, y=64, z=-162}
+[05:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=107, y=64, z=-162}
+[05:27:19] [Server thread/INFO]: zetreaa has made the advancement [Stone Age]
+[05:27:20] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/3542, l='ServerLevel[world]', x=187.50, y=0.00, z=-364.50]'
+[05:28:10] [Server thread/INFO]: eslikk has made the advancement [Stone Age]
+[05:28:45] [Server thread/INFO]: eslikk has made the advancement [Getting an Upgrade]
+[05:31:29] [Server thread/INFO]: zetreaa has made the advancement [Getting an Upgrade]
+[05:31:43] [User Authenticator #7/INFO]: UUID of player situalss is b4e6d53d-9ce9-4204-b94f-4247bec265da
+[05:31:47] [Server thread/INFO]: situalss[/127.65.50.87:54941] logged in with entity id 4560 at (114.5, 67.0, -175.5)
+[05:31:47] [Server thread/INFO]: situalss joined the game
+[05:31:47] [Server thread/INFO]: Sending item configs to client
+[05:31:48] [Server thread/INFO]: [voicechat] Received secret request of situalss (18)
+[05:31:48] [Server thread/INFO]: [voicechat] Sent secret to situalss
+[05:31:50] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/4635, l='ServerLevel[world]', x=125.50, y=9.00, z=-273.50]'
+[05:31:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4e6d53d-9ce9-4204-b94f-4247bec265da
+[05:31:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4e6d53d-9ce9-4204-b94f-4247bec265da
+[05:31:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player situalss (b4e6d53d-9ce9-4204-b94f-4247bec265da) successfully connected to voice chat
